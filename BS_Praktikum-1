@@ -1,0 +1,14 @@
+1.
+    Keine Sonderrechte
+    Owner: lesen, schreiben, ausführen
+    Group: lesen, ---------, ausführen
+    Other: -----, ---------, ---------
+
+2. 
+    chmod 0711 Test.sh
+
+3. 
+    -R == rekursives setzen der Berechtigungen
+    mode muss keine Oktalzahl sein (symbolic_mode)
+
+4. 
